@@ -27,18 +27,18 @@ class Question {
 
 
     display(){
-    this.title.html("Pro Gamer Question");
+    this.title.html("Question about Soprts");
     this.title.position(350,0);
 
-    this.question.html("What starts and ends with the letter e- BUT only has one letter?");
+    this.question.html("Who is better at football?");
     this.question.position(100,30);
-    this.option1.html("1: Everyone");
+    this.option1.html("1: Lionel Messi");
     this.option1.position(150,60);
-    this.option2.html("2: Envelope");
+    this.option2.html("2: Pelé(Edson Arantes do Nascimento)");
     this.option2.position(150,100);
-    this.option3.html("3: Example");
+    this.option3.html("3: Christiano Ronaldo");
     this.option3.position(150,140);
-    this.option4.html("4: E");
+    this.option4.html("4: Neymar(Neymar da Silva Santos Júnior)");
     this.option4.position(150,180);
     this.input1.position(140,240);
     this.input2.position(340,240)
